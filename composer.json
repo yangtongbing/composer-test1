@@ -11,8 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Sdwgyzyxy\\ComposerTest1\\": "src/Sdwgyzyxy/ComposerTest1",
-            "Sdwgyzyxy\\ComposerTest2\\": "src/Sdwgyzyxy/ComposerTest2"
+            "Sdwgyzyxy\\": "src/"
         }
     }
 }
