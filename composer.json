@@ -1,0 +1,18 @@
+{
+    "name": "sdwgyzyxy/composer_test1",
+    "description": "swoft-env测试获取配置",
+    "authors": [
+        {
+            "name": "杨统兵",
+            "email": "1280758415@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sdwgyzyxy\\ComposerTest1\\": "src/Sdwgyzyxy/ComposerTest1",
+            "Sdwgyzyxy\\ComposerTest2\\": "src/Sdwgyzyxy/ComposerTest2"
+        }
+    }
+}
